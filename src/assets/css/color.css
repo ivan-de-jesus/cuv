@@ -1,0 +1,44 @@
+.red-primary {
+  background: #f04141;
+}
+
+.red-primary-text {
+  color: #f04141;
+}
+
+.grey {
+  background: #818181;
+}
+
+.grey-text {
+  color: #818181;
+}
+
+.white {
+  background: #f4f4f4;
+}
+
+.white-text {
+  color: #f4f4f4;
+}
+
+.blue-primary {
+  background: #3880ff
+}
+
+
+.blue-primary-text {
+  color: #3880ff
+}
+
+.warning-text {
+  color: #ffce00;
+}
+
+.primary-text {
+  color: #3880ff;
+}
+
+.success-text {
+  color: #10dc60
+}

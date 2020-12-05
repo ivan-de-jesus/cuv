@@ -1,0 +1,54 @@
+ion-slides {
+  height: 100vh;
+}
+
+.vertical-align-content>* {
+  display: flex !important;
+  align-content: center !important;
+  align-items: center !important;
+}
+
+.full-vw {
+  width: 100vw !important;
+}
+
+.input-custom, input.input-custom {
+  background: #f4f4f4 !important;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  width: 100%;
+  margin-bottom: 15px;
+  transition: 0.5s;
+  color: #333 !important;
+}
+
+.input-custom:focus {
+  outline: none;
+  box-shadow: 0px 2px 7px 1px rgba(0, 0, 0, 0.1);
+}
+
+.in-item.icon {
+  font-size: 20px;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+
+.in-item.text {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.loading-section {
+  padding: 30px calc(50% - 14px) !important;
+}
+
+.label-title {
+  font-size: 13px;
+  color: #999999;
+}
+
+a {
+  text-decoration: none;
+  color: initial;
+}
